@@ -1,4 +1,4 @@
 fhand = open('data\mbox-short.txt')
 inp = fhand.read()
 print(len(inp))
-print(inp[:20])
+print(inp[:25])
